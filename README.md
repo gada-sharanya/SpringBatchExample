@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
  4. Execute the Job:
    Access the application at http://localhost:9191 and trigger the data transfer job by clicking the provided endpoint.
 
-   ****Dependencies**
+**Dependencies**
 Spring Boot 2.5.4
 Spring Batch
 Spring Web
