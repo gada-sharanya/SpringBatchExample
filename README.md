@@ -22,5 +22,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/spring-batch-data-transfer.git
-   cd spring-batch-data-transfer
+   git clone https://github.com/gada-sharanya/SpringBatchExample.git
+   cd batches
